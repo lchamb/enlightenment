@@ -1,20 +1,18 @@
 # Enlightenment Bot
 
-The Enlightenment Bot seeks to automate the process of enlightenment through meditation.
+Based on the esoteric rite of the _Gumonji-ho_, where the mantra of the Bodhisattva Kokuzo Bosatsu is recited 10,000 times a day for 100 days, the enlightenment bot seeks to automate the process of meditation.
 
-Based on the esoteric rite of the _gumonji-ho_, where the mantra of the Bodhisattva Kokuzo Bosatsu is recited 1,000,000 times in a row, the enlightenment bot automates the process of meditation.
+The rite was made famous by the great teacher Kobo Daishi, founder of Japan’s Shingon sect of Buddhism, who practiced the rite before attaining enlightenment in a seaside cave on the Muroto Cape on the island of Shikoku in Japan.
 
-Most famously the great teacher Kobo Daishi, founder of Japan’s Shingon Buddhism, practiced the rite before attaining enlightenment.
-
-The Enlightenment Bot tweets the Morning Star mantra 10,000 times per day for 100 days.
+One million chants is clearly a lot of work, so I wrote a bot that chants the mantra for you.
 
 ## History
 
-Originally conceived as a twitter bot that would chant the mantra repetitiously, the gumonjiho was foiled by twitter’s anti-meditative policy of rejecting duplicate tweets. So the bot sits in the aethers of the internet, attempting to chant but being rejected by the message:
+Originally conceived as a twitter bot that would chant the mantra repetitiously, [@gumonjiho](http://twitter.com/gumonjiho) was foiled by twitter’s anti-meditative policy of rejecting duplicate tweets. So the bot sits in the aethers of the internet, attempting to chant but being rejected by the message:
 
 `Could not post Tweet. Error: 403 Reason: Status is a duplicate.`
 
-The error message is a [http://en.wikipedia.org/wiki/K%C5%8Dan](koan) in itself, so I left it this way.
+The error message is a [koan](http://en.wikipedia.org/wiki/K%C5%8Dan) in itself.
 
 ## Instructions
 
@@ -28,15 +26,15 @@ node app.js
 
 ## Author
 
-**Luke Chamberlin**
-[http://twitter.com/lchamberlin](@lchamberlin)
+**Luke Chamberlin**—[@lchamberlin](http://twitter.com/lchamberlin)
 
 ## Special thanks
 
-**Junji, of the 80th Temple**
-_no internet presence_
+**Junji, of the 80th Temple**—_no internet presence_
 
-**Darius Kazemi**
-[http://twitter.com/tinysubversions](@tinysubversions)
+A monk from the island of Shikoku, Japan. He brought me fish head stew and introduced me to his dog, Marlon Brando.
+
+**Darius Kazemi**—[@tinysubversions](http://twitter.com/tinysubversions)
+
 Twitter bot master and author of many helpful tutorials.
 
