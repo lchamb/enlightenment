@@ -26,15 +26,15 @@ node app.js
 
 ## Author
 
-**Luke Chamberlin**—[@lchamberlin](http://twitter.com/lchamberlin)
+**Luke Chamberlin** — [@lchamberlin](http://twitter.com/lchamberlin)
 
 ## Special thanks
 
-**Junji, of the 80th Temple**—_no internet presence_
+**Junji, of the 80th Temple** — _no internet presence_
 
 A monk from the island of Shikoku, Japan. He brought me fish head stew and introduced me to his dog, Marlon Brando.
 
-**Darius Kazemi**—[@tinysubversions](http://twitter.com/tinysubversions)
+**Darius Kazemi** — [@tinysubversions](http://twitter.com/tinysubversions)
 
 Twitter bot master and author of many helpful tutorials.
 
