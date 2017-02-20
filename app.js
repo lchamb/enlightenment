@@ -48,9 +48,13 @@ function chant(mantra) {
 // chant the mantra every 9 seconds
 // this will equal approximately 10,000 chants per 24 hours
 // enlightenment will be reached in 100 days
+
+var odd = false;
+
 setInterval(function() {
 	try {
-		chant(mantra)
+		chant(mantra + (odd ? " " : ""))
+		odd = ! odd;
 	}
 	catch(err) {
 		console.log(err)
